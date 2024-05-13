@@ -1,3 +1,4 @@
 flopyu/__pycache__
 flopyu/modflow/__pycache__
 *.bak
+.ipynb_checkpoints
